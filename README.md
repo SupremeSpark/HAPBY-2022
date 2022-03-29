@@ -3,7 +3,7 @@ why do code lines start at 1 and not 0???
 # HAPBY-2022
 Welcome to the "Harby Acrlyic Play Button, Yes!" project
 
-Hello Harby and everyone else! Thank you for sticking for this long and if you joined along thank you equally we're both glad we found this coding cutie amrite???
+Hello Harby and everyone else! Thank you for sticking for this long and if you joined along thank you aswell! We're both glad we found this coding cutie amrite!???
 Anyways you're here for the file so here are instructions on how to make the lamp
 
 0. Download autocad and the vector file (Acrlyic Playbutton.dwg)
@@ -22,6 +22,7 @@ Anyways you're here for the file so here are instructions on how to make the lam
 7. Go to material database and select Cast Acrylic Deep Engraving
     7b. Set Material tab -> Acrylic -> Cast Acrylic -> Cast Acrylic Deep Engraving
 8. Set material hickness and lazer speed & power (should already preset)
+    8b. If applicable set 'stroke point widt to e 0.01 mm wide
 9. Insert material (Arclyic Plastic) within the operating zone (ontop honeycomb pattern inside the rulers)
 10. Turn on power source and suction ventalation system
 11. Click start and wait approx 43 minutes (don't watch the lazer! You will go blind!)
@@ -30,4 +31,6 @@ Anyways you're here for the file so here are instructions on how to make the lam
 14. Peel and enjoy the playbutton!
     15b. Remote is self explanitory, I hope, go wild with the remote
     
-Hope there isn't any typos here. . . 
+The brand of cutter i'm using is  "Universal Lazer Systems"
+
+Hope there isn't any typos here. . .
