@@ -1,6 +1,7 @@
-/*
-# HAPBY-2022-
-Welcome to the "Harby Acrlyic Play Button, Yes!" project!  
+why do code lines start at 1 and not 0???
+
+# HAPBY-2022
+Welcome to the "Harby Acrlyic Play Button, Yes!" project
 
 Hello Harby and everyone else! Thank you for sticking for this long and if you joined along thank you equally we're both glad we found this coding cutie amrite???
 Anyways you're here for the file so here are instructions on how to make the lamp
@@ -11,7 +12,7 @@ Anyways you're here for the file so here are instructions on how to make the lam
         2. Send to your local lazercutting workshop with these specifications (Material: Cast Acrlic Plastic, Size: 14x10 inches (35.5x25.5 cm), Deep Engraving)
         3. Wait and pay for delivery 
         4. Done
-    DIY
+    DIY (Steps may vary, i'm no expert)
 2. Align vector drawing near 0,0 where te lazer printer can operate
     2b. Besure to delete fluf (entire messures layer)
 3. Go to Layout1/Your printing layout
