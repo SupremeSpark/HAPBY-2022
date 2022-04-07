@@ -22,8 +22,11 @@ Anyways you're here for the file so here are instructions on how to make the lam
 6. Go to properties then custom properties
 7. Go to material database and select Cast Acrylic
     7b. Set Material tab -> Acrylic -> Cast Acrylic -> Cast Acrylic -> Cast Acrylic
-8. Set material hickness and lazer speed & power (should already preset)
-    8b. If applicable set 'stroke point' width to be 0.01 mm wide
+8. Set the settings
+   8b. Material thickness to 0.220
+   8c. Lazer speed to 100%
+   8d. Etch Lazer power to 75% (For Cut Lazer power set to 100%)
+   8e. If applicable set 'stroke point' width to be 0.01 mm wide
 9. Insert material (Arclyic Plastic) within the operating zone (ontop honeycomb pattern inside the rulers)
     9b. It must be completely in the top left corner of the printer inside the rulers
 10. Turn on power source and suction ventalation system
